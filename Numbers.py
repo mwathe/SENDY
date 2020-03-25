@@ -16,5 +16,5 @@ def reunion(even, odd):
     return len(oddpics + evenpics)
 
 
-v = reunion(2, 3)
+v = reunion(2, 3)     #inputs test
 print(v)
